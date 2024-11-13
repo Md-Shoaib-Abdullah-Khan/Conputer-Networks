@@ -1,6 +1,0 @@
-1.enable
-2.interface gigabitfasteathernet 0/1
-3.ip address 192.168.0.1 (set gateway ip as the ip of router)
-4. no shutdown
-5. router rip (setup rip protocol)
-6. network 192.168.0.0
